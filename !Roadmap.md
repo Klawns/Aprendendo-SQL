@@ -1,3 +1,4 @@
+Tags: #db 
 # SQL Roadmap
 
 ## 1. Fundamentos e Sintaxe Básica
@@ -17,9 +18,9 @@
 - [x] ORDER BY
 - [ ] LIMIT / OFFSET
 
-- [ ] INNER JOIN
-- [ ] LEFT JOIN
-- [ ] RIGHT JOIN
+- [x] INNER JOIN
+- [x] LEFT JOIN
+- [x] RIGHT JOIN
 - [ ] FULL JOIN
 
 ---
@@ -47,7 +48,7 @@
 
 - [x] Primeira Forma Normal (1NF)
 - [x] Segunda Forma Normal (2NF)
-- [ ] Terceira Forma Normal (3NF)
+- [x] Terceira Forma Normal (3NF)
 
 - [ ] Desnormalização (quando usar)
 
