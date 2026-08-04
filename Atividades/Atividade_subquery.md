@@ -1,3 +1,4 @@
+#sql #db 
 # Exercícios
 
 ## Nível 1
