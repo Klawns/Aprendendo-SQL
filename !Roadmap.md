@@ -21,7 +21,7 @@ Tags: #db
 - [x] INNER JOIN
 - [x] LEFT JOIN
 - [x] RIGHT JOIN
-- [ ] FULL JOIN
+- [x] FULL JOIN
 
 ---
 
@@ -61,7 +61,7 @@ Tags: #db
 
 ## 4. Funcionamento Interno
 
-- [ ] B-Tree / B+Tree
+- [x] B-Tree / B+Tree
 - [ ] LSM-Tree
 
 - [ ] ACID
@@ -69,7 +69,7 @@ Tags: #db
 
 - [ ] Query Planner
 - [ ] EXPLAIN ANALYZE
-- [ ] Seq Scan vs Index Scan
+- [x] Seq Scan vs Index Scan
 
 - [ ] MVCC
 - [ ] Connection Pool
@@ -78,14 +78,14 @@ Tags: #db
 
 ## 5. Índices
 
-- [ ] Índices B-Tree
+- [x] Índices B-Tree
 - [ ] Índices Hash
-- [ ] GIN
+- [X] GIN
 - [ ] GiST
 
-- [ ] Índices Compostos
-- [ ] Índices Parciais
-- [ ] Covering Indexes
+- [x] Índices Compostos
+- [x] Índices Parciais
+- [x] Covering Indexes
 
 ---
 
@@ -109,9 +109,9 @@ Tags: #db
 
 ## 7. Migrations
 
-- [ ] Conceito de Migrations
-- [ ] Versionamento de Schema
-- [ ] Flyway
+- [x] Conceito de Migrations
+- [x] Versionamento de Schema
+- [x] Flyway
 - [ ] Liquibase
 - [ ] Prisma Migrate
 - [ ] Golang Migrate
@@ -147,15 +147,15 @@ Tags: #db
 
 - [x] Constraints (PRIMARY KEY, UNIQUE, CHECK, NOT NULL, DEFAULT)
 - [x] Tipos de dados SQL
-- [ ] Views
-- [ ] Materialized Views
+- [x] Views
+- [x] Materialized Views
 - [ ] Sequences / SERIAL / IDENTITY
 - [ ] JSON e JSONB (PostgreSQL)
-- [ ] Full Text Search
-- [ ] Funções e Procedures
-- [ ] Triggers
+- [X] Full Text Search
+- [x] Funções e Procedures
+- [x] Triggers
 - [ ] Particionamento de tabelas
-- [ ] Backup e Restore
+- [x] Backup e Restore
 
 ---
 
@@ -164,11 +164,11 @@ Tags: #db
 - [ ] PgBouncer (Connection Pooling)
 - [ ] Index Rules (Left-to-Right Rule para índices compostos)
 - [ ] Concurrency Case Use
-- [ ] Uso de colunas `version`
-- [ ] Uso de `updated_at` para controle de concorrência
+- [x] Uso de colunas `version`
+- [x] Uso de `updated_at` para controle de concorrência
 - [ ] Controle de concorrência otimista com `version`
 - [ ] Estratégias para evitar atualizações perdidas (Lost Update)
 - [ ] Como debugar problemas de Connection Pool em produção
 - [ ] Limite de conexões do banco de dados
 - [ ] Diagnóstico de conexões presas (stuck connections)
-- [ ] Boas práticas para otimização de índices compostos
+- [x] Boas práticas para otimização de índices compostos
